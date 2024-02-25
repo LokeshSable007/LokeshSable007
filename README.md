@@ -1,5 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
-)]
+
 <h1 align="center">Hi 👋, I'm Lokesh Sable</h1>
 <h3 align="center">A Aspiring Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
